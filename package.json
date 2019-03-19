@@ -1,7 +1,7 @@
 {
   "name": "easy-check",
-  "version": "1.0.2",
-  "description": "```sh\r npm install easy-check\r ```",
+  "version": "1.0.4",
+  "description": "简单的字段验证",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/wolfsky7/easy-check.git"
   },
-  "author": "",
+  "author": "wolfsky7",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wolfsky7/easy-check/issues"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
   },
   "homepage": "https://github.com/wolfsky7/easy-check#readme"
 }
